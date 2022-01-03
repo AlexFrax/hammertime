@@ -14,11 +14,11 @@ Script to connect 3commas bots to hammertime telegram signals
 ```
 long_bot_ids = {
     'BINANCEUS':
-        [123456, 234567],
+        [1234567, 7654321],
     'BINANCE':
         [],
     'KUCOIN':
-        [98765]
+        [9876543]
 }
 ```
 5. Run the script! When running for the first time, telegram will prompt you for your username/phonenumber (use country code, i.e '+15551234567) and you will have to insert the code it messages you.
