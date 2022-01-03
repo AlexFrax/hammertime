@@ -22,3 +22,6 @@ long_bot_ids = {
 }
 ```
 5. Run the script! When running for the first time, telegram will prompt you for your username/phonenumber (use country code, i.e '+15551234567) and you will have to insert the code it messages you.
+
+# Hammer's current settings:
+https://3commas.io/bots/7447434/shared_show?secret=84ada169f1
